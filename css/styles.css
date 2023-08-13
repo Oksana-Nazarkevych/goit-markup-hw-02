@@ -71,3 +71,16 @@ body {
 .one-section .tab:focus {
     background-color: #404BBF;
 }
+
+.two-section .two-section-h {
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.two-section .two-section-h,
+.text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
