@@ -25,15 +25,15 @@ body {
     color: #2e2f42;
 }
 
-.link:hover {
+.page-nav .link:hover {
     color: #404bbf;
 }
 
-.link:active {
+.page-nav .link:active {
     color: #404bbf;
 }
 
-.link:focus {
+.page-nav .link:focus {
     color: #404bbf;
 }
 
