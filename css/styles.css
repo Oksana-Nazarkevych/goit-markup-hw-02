@@ -102,3 +102,16 @@ body {
 .two-section .two {
     line-height: 1.2;
 }
+
+.three-section {
+    background-color: #F4F4FD;
+}
+
+.three-section .three-section-h {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
