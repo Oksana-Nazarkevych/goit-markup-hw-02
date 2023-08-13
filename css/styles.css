@@ -53,7 +53,7 @@ body {
     color: #ffffff;
 }
 
-.one-section .one-section-tab {
+.one-section .tab {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -64,10 +64,10 @@ body {
     cursor: pointer;
 }
 
-.one-section .one-section-tab:hover {
+.one-section .tab:hover {
     background-color: #404BBF;
 }
 
-.one-section .one-section-tab:focus {
+.one-section .tab:focus {
     background-color: #404BBF;
 }
