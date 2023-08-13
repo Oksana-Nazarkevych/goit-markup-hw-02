@@ -40,3 +40,34 @@ body {
 .address {
     font-style: normal;
 }
+
+.one-section {
+    background-color: #2e2f42;
+}
+
+.one-section .one-section-h {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.one-section .one-section-tab {
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.one-section .one-section-tab:hover {
+    background-color: #404BBF;
+}
+
+.one-section .one-section-tab:focus {
+    background-color: #404BBF;
+}
