@@ -14,7 +14,7 @@ body {
     color: #4d5ae5;
 }
 
-.studio {
+.studio .logo {
     color: #2e2f42;
 }
 
@@ -38,5 +38,5 @@ body {
 }
 
 .address {
-    font-style: normal:
+    font-style: normal;
 }
