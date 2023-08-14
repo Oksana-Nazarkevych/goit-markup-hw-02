@@ -107,12 +107,21 @@ body {
     background-color: #F4F4FD;
 }
 
+.tree {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
 .our-team {
     background-color: #FFFFFF;
 }
 
-.three-section .three-section-h,
-.our-team .two-section-h {
+.three-section .three,
+.three-section-h {
     font-weight: 500;
     font-size: 20px;
     letter-spacing: 0.02em;
