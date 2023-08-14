@@ -83,25 +83,27 @@ body {
     background-color: #404BBF;
 }
 
+/* two section */
 .two-section {
     line-height: 1.2;
 }
 
-.two-section .two,
-.two-section-h {
+.description {
     font-weight: 500;
     font-size: 20px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
-.two-section .two-section-h,
 .text {
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #434455;
 }
 
-
+/* three section */
 .three-section {
     background-color: #F4F4FD;
 }
