@@ -78,15 +78,13 @@ body {
     cursor: pointer;
 }
 
-.one-section .tab:hover {
-    background-color: #404BBF;
-}
-
+.one-section .tab:hover,
 .one-section .tab:focus {
     background-color: #404BBF;
 }
 
-.two-section .two-section-h {
+.two-section .two,
+.two-section-h {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
